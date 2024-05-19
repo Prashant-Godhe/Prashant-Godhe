@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Prashant Vithal Godhe</h1>
 <h3 align="center">A Developer and Tech Enthusiast</h3>
-<img align="right" alt="Coding" width="800" height="400" src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif">
+<img align="right" alt="Coding" width="1200" height="400" src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prashant-godhe&label=Profile%20views&color=0e75b6&style=flat" alt="prashant-godhe" /> </p>
 
 - 🌱 I’m currently learning **Flutter, Java**
