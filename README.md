@@ -1,8 +1,6 @@
-![image](https://github.com/Prashant-Godhe/Prashant-Godhe/assets/112972913/5b1bc8e5-fcc8-4616-8f8e-6a35bc44143d)<h1 align="center">Hi 👋, I'm Prashant Vithal Godhe</h1>
+<h1 align="center">Hi 👋, I'm Prashant Vithal Godhe</h1>
 <h3 align="center">A Developer and Tech Enthusiast</h3>
-<img align="right" alt="Coding" width="1100" height="400" src="https://i.redd.it/n8agw6z2smyb1.gif">
-<br>
-<br>
+<img align="right" alt="Coding" width="1100" height="600" src="https://i.redd.it/n8agw6z2smyb1.gif">
 
 - 🌱 I’m currently learning **Flutter, Java, dart**
 
