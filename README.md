@@ -4,9 +4,9 @@
 <br>
 <br>
 
-- 🌱 I’m currently learning **Flutter, Java**
+- 🌱 I’m currently learning **Flutter, Java, dart**
 
-- 💬 Ask me about **Android, Web, ML**
+- 💬 Ask me about **Android, ML**
 
 - 📫 How to reach me **godheprashant7@gmail.com**
 
