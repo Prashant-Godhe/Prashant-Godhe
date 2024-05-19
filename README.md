@@ -3,7 +3,6 @@
 <img align="right" alt="Coding" width="1100" height="400" src="https://gifdb.com/images/high/jujutsu-kaisen-satoru-gojo-frolic-bgi6v62j3dpb17nx.gif">
 <br>
 <br>
-# ![Stalker](https://visitor-badge.laobi.icu/badge?page_id=Prashant-Godhe)
 
 - 🌱 I’m currently learning **Flutter, Java**
 
