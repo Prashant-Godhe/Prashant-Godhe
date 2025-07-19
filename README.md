@@ -20,7 +20,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prashant-godhe&show_icons=true&locale=en" alt="prashant-godhe" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prashant-godhe&" alt="prashant-godhe" /></p>
+<p><img align="center" src="[https://github-readme-streak-stats.herokuapp.com/?user=prashant-godhe&](https://github-readme-stats.vercel.app/api/top-langs/?username=prashant-godhe&theme=onedark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)" alt="prashant-godhe" /></p>
 ## 📊 GitHub Stats:
 
 ![](https://github-readme-stats.vercel.app/api?username=prashant-godhe&theme=onedark&hide_border=true&include_all_commits=false&count_private=false)
