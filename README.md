@@ -3,11 +3,12 @@
 <img align="right" alt="Coding" width="1100" height="450" src="https://i.redd.it/n8agw6z2smyb1.gif">
 <br>
 <br>
-- 🌱 I’m currently working on  **Python, DataScience, AI/ML Industry Projects**
 
-- 💬 Ask me about **Android, ML**
+🌱 I’m currently working on  **Python, DataScience, AI/ML Industry Projects**
 
-- 📫 How to reach me **godheprashant7@gmail.com**
+💬 Ask me about **Android, ML**
+
+📫 How to reach me **godheprashant7@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
