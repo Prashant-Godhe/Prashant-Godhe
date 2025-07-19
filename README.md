@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Prashant Vithal Godhe</h1>
 <h3 align="center">A Developer and Tech Enthusiast</h3>
-<img align="right" alt="Coding" width="1100" height="450" src="https://i.redd.it/n8agw6z2smyb1.gif">
+<img align="right" alt="Coding" width="1100" height="500" src="https://i.redd.it/n8agw6z2smyb1.gif">
 <br>
 <br>
 
